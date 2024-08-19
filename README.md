@@ -1,17 +1,17 @@
-# universal-wallet-Drainer
+# web3-wallet-Drainer
 
-### Every seller on here is fake!! I have leaked the full source code of the V2 because I made a V3, and I wont be putting up any demos for V3. For Sale only. NO DEMO/TESTING
+### Leaked source code available, works on all wallet.
 
 # V2 FEATURES
 - Added uniswap, pancakeswap, and sushiswap from previous versions
 - Reports all drains and connects to telegram bot
 - Multi Chain
 
-#### I decided to drop this script because I do not want to accomodate any more clients asking for demos. ITS FRUSTRATING!!! THIS SHOULD BE ENOUGH PROOF!!
+#### Dont ask for demos, the very reason i dropped this script. ITS FRUSTRATING!!! THIS SHOULD BE ENOUGH PROOF!!
 #### ALSO TO LAY OFF SCAMMERS SELLING MY OBFUSCATED SCRIPTS!!
 #### Dont ask for price its 0.3 ETH, get to the point, dont DM if you cannot afford.
 
-## Contact Me On Telegram for V3 @ 0.3 ETH (no discount/demo): https://t.me/Reddyheart
+## Contact Me On Telegram for V3 @ 0.3 ETH (no discount/demo): https://t.me/Blackhartscripts
 
 
 ## 1. A small educational program on the structure of the script and how to setup
@@ -32,7 +32,7 @@ public/scripts/main.js - the main script that is responsible for interacting wit
 
 config.json - configuration. app.js - server file, internal logic (auto output). 
 
-## Contact Me On Telegram for V3 @ 0.3 ETH (no discount): https://t.me/Reddyheart
+## Contact Me On Telegram for V3 @ 0.3 ETH (no discount): https://t.me/Blackhartscripts
 
 
 docker-compose.yml, Dockerfile - setting up the container system and run system. 
@@ -150,6 +150,6 @@ Then, to the domain dns, add a "A-record" with the IP address of your Ubuntu 20.
 
 DEVELOPER DOES NOT SUPPORT ANY ILLEGAL ACTIVITIES.
 
-## Contact Me On Telegram for V3 @ 0.3 ETH (no discount/demo): https://t.me/Reddyheart
+## Contact Me On Telegram for V3 @ 0.3 ETH (no discount/demo): https://t.me/Blackhartscripts
 
 
